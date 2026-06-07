@@ -1,4 +1,4 @@
-nombre = "soy Bryan"
+nombre = "soy Churi"
 apellido = "Delgado"
 
 saludo = f"{nombre} {apellido}."
